@@ -1,0 +1,79 @@
+﻿<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="uri:rosa_khutor_resort" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="weather">
+    <xs:complexType mixed="true">
+      <xs:sequence>
+        <xs:element name="current">
+          <xs:annotation>
+            <xs:documentation>data from meteo station in real time</xs:documentation>
+          </xs:annotation>
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="station" maxOccurs="unbounded" minOccurs="0">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:string" name="sky"/>
+                    <xs:element type="xs:float" name="temp_now"/>
+                    <xs:element type="xs:float" name="temp_afternoon"/>
+                    <xs:element name="wind_dir">
+                      <xs:complexType>
+                        <xs:simpleContent>
+                          <xs:extension base="xs:string">
+                            <xs:attribute type="xs:string" name="lat" use="optional"/>
+                          </xs:extension>
+                        </xs:simpleContent>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element type="xs:float" name="wind_deg"/>
+                    <xs:element type="xs:float" name="wind_speed"/>
+                    <xs:element type="xs:float" name="snow"/>
+                    <xs:element type="xs:string" name="comment"/>
+                  </xs:sequence>
+                  <xs:attribute type="xs:string" name="name" use="optional"/>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute type="xs:string" name="last_update"/>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="forecast">
+          <xs:annotation>
+            <xs:documentation>forecast weathter data from external source</xs:documentation>
+          </xs:annotation>
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="station" maxOccurs="unbounded" minOccurs="0">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="period" maxOccurs="unbounded" minOccurs="0">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element type="xs:string" name="sky"/>
+                          <xs:element type="xs:float" name="temp_mon"/>
+                          <xs:element type="xs:float" name="temp_afternoon"/>
+                          <xs:element name="wind_dir">
+                            <xs:complexType>
+                              <xs:simpleContent>
+                                <xs:extension base="xs:string">
+                                  <xs:attribute type="xs:string" name="lat" use="optional"/>
+                                </xs:extension>
+                              </xs:simpleContent>
+                            </xs:complexType>
+                          </xs:element>
+                          <xs:element type="xs:string" name="wind_deg"/>
+                          <xs:element type="xs:float" name="wind_speed"/>
+                          <xs:element type="xs:string" name="comment"/>
+                        </xs:sequence>
+                        <xs:attribute type="xs:string" name="for" use="optional"/>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                  <xs:attribute type="xs:string" name="name" use="optional"/>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
