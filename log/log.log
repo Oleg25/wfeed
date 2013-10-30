@@ -1,1 +1,1419 @@
 ﻿[17-Sep-2013 12:24:49] PHP Warning:  DOMDocument::load(): Empty string supplied as input in C:\nimp\htdocs\feed2\index.php on line 100
+[08-Oct-2013 09:39:29 Europe/Berlin] PHP Deprecated:  Function ereg_replace() is deprecated in C:\xampp\htdocs\feed2\index.php on line 172
+[08-Oct-2013 09:39:29 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 09:39:29 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 09:39:29 Europe/Berlin] PHP   2. ob_end_flush() C:\xampp\htdocs\feed2\index.php:185
+[08-Oct-2013 09:39:29 Europe/Berlin] PHP   3. callback() C:\xampp\htdocs\feed2\index.php:185
+[08-Oct-2013 09:40:38 Europe/Berlin] PHP Deprecated:  Function ereg_replace() is deprecated in C:\xampp\htdocs\feed2\index.php on line 172
+[08-Oct-2013 09:40:38 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 09:40:38 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 09:40:38 Europe/Berlin] PHP   2. ob_end_flush() C:\xampp\htdocs\feed2\index.php:185
+[08-Oct-2013 09:40:38 Europe/Berlin] PHP   3. callback() C:\xampp\htdocs\feed2\index.php:185
+[08-Oct-2013 09:44:26 Europe/Berlin] PHP Deprecated:  Function ereg_replace() is deprecated in C:\xampp\htdocs\feed2\index.php on line 172
+[08-Oct-2013 09:44:26 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 09:44:26 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 09:44:26 Europe/Berlin] PHP   2. ob_end_flush() C:\xampp\htdocs\feed2\index.php:185
+[08-Oct-2013 09:44:26 Europe/Berlin] PHP   3. callback() C:\xampp\htdocs\feed2\index.php:185
+[08-Oct-2013 09:45:02 Europe/Berlin] PHP Deprecated:  Function ereg_replace() is deprecated in C:\xampp\htdocs\feed2\index.php on line 172
+[08-Oct-2013 09:45:02 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 09:45:02 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 09:45:02 Europe/Berlin] PHP   2. ob_end_flush() C:\xampp\htdocs\feed2\index.php:185
+[08-Oct-2013 09:45:02 Europe/Berlin] PHP   3. callback() C:\xampp\htdocs\feed2\index.php:185
+[08-Oct-2013 09:45:57 Europe/Berlin] PHP Deprecated:  Function ereg_replace() is deprecated in C:\xampp\htdocs\feed2\index.php on line 172
+[08-Oct-2013 09:45:57 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 09:45:57 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 09:45:57 Europe/Berlin] PHP   2. ob_end_flush() C:\xampp\htdocs\feed2\index.php:185
+[08-Oct-2013 09:45:57 Europe/Berlin] PHP   3. callback() C:\xampp\htdocs\feed2\index.php:185
+[08-Oct-2013 09:46:41 Europe/Berlin] PHP Deprecated:  Function ereg_replace() is deprecated in C:\xampp\htdocs\feed2\index.php on line 172
+[08-Oct-2013 09:46:41 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 09:46:41 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 09:46:41 Europe/Berlin] PHP   2. ob_end_flush() C:\xampp\htdocs\feed2\index.php:185
+[08-Oct-2013 09:46:41 Europe/Berlin] PHP   3. callback() C:\xampp\htdocs\feed2\index.php:185
+[08-Oct-2013 09:47:23 Europe/Berlin] PHP Deprecated:  Function ereg_replace() is deprecated in C:\xampp\htdocs\feed2\index.php on line 172
+[08-Oct-2013 09:47:23 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 09:47:23 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 09:47:23 Europe/Berlin] PHP   2. ob_end_flush() C:\xampp\htdocs\feed2\index.php:185
+[08-Oct-2013 09:47:23 Europe/Berlin] PHP   3. callback() C:\xampp\htdocs\feed2\index.php:185
+[08-Oct-2013 09:47:37 Europe/Berlin] PHP Deprecated:  Function ereg_replace() is deprecated in C:\xampp\htdocs\feed2\index.php on line 172
+[08-Oct-2013 09:47:37 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 09:47:37 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 09:47:37 Europe/Berlin] PHP   2. ob_end_flush() C:\xampp\htdocs\feed2\index.php:185
+[08-Oct-2013 09:47:37 Europe/Berlin] PHP   3. callback() C:\xampp\htdocs\feed2\index.php:185
+[08-Oct-2013 09:50:56 Europe/Berlin] PHP Deprecated:  Function ereg_replace() is deprecated in C:\xampp\htdocs\feed2\index.php on line 172
+[08-Oct-2013 09:50:56 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 09:50:56 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 09:50:56 Europe/Berlin] PHP   2. ob_end_flush() C:\xampp\htdocs\feed2\index.php:185
+[08-Oct-2013 09:50:56 Europe/Berlin] PHP   3. callback() C:\xampp\htdocs\feed2\index.php:185
+[08-Oct-2013 09:51:05 Europe/Berlin] PHP Deprecated:  Function ereg_replace() is deprecated in C:\xampp\htdocs\feed2\index.php on line 172
+[08-Oct-2013 09:51:05 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 09:51:05 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 09:51:05 Europe/Berlin] PHP   2. ob_end_flush() C:\xampp\htdocs\feed2\index.php:185
+[08-Oct-2013 09:51:05 Europe/Berlin] PHP   3. callback() C:\xampp\htdocs\feed2\index.php:185
+[08-Oct-2013 09:51:10 Europe/Berlin] PHP Deprecated:  Function ereg_replace() is deprecated in C:\xampp\htdocs\feed2\index.php on line 172
+[08-Oct-2013 09:51:10 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 09:51:10 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 09:51:10 Europe/Berlin] PHP   2. ob_end_flush() C:\xampp\htdocs\feed2\index.php:185
+[08-Oct-2013 09:51:10 Europe/Berlin] PHP   3. callback() C:\xampp\htdocs\feed2\index.php:185
+[08-Oct-2013 09:51:44 Europe/Berlin] PHP Deprecated:  Function ereg_replace() is deprecated in C:\xampp\htdocs\feed2\index.php on line 172
+[08-Oct-2013 09:51:44 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 09:51:44 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 09:51:44 Europe/Berlin] PHP   2. ob_end_flush() C:\xampp\htdocs\feed2\index.php:185
+[08-Oct-2013 09:51:44 Europe/Berlin] PHP   3. callback() C:\xampp\htdocs\feed2\index.php:185
+[08-Oct-2013 09:53:24 Europe/Berlin] PHP Deprecated:  Function ereg_replace() is deprecated in C:\xampp\htdocs\feed2\index.php on line 172
+[08-Oct-2013 09:53:24 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 09:53:24 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 09:53:24 Europe/Berlin] PHP   2. ob_end_flush() C:\xampp\htdocs\feed2\index.php:185
+[08-Oct-2013 09:53:24 Europe/Berlin] PHP   3. callback() C:\xampp\htdocs\feed2\index.php:185
+[08-Oct-2013 09:54:15 Europe/Berlin] PHP Deprecated:  Function ereg_replace() is deprecated in C:\xampp\htdocs\feed2\index.php on line 172
+[08-Oct-2013 09:54:15 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 09:54:15 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 09:54:15 Europe/Berlin] PHP   2. ob_end_flush() C:\xampp\htdocs\feed2\index.php:185
+[08-Oct-2013 09:54:15 Europe/Berlin] PHP   3. callback() C:\xampp\htdocs\feed2\index.php:185
+[08-Oct-2013 09:54:50 Europe/Berlin] PHP Deprecated:  Function ereg_replace() is deprecated in C:\xampp\htdocs\feed2\index.php on line 172
+[08-Oct-2013 09:54:50 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 09:54:50 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 09:54:50 Europe/Berlin] PHP   2. ob_end_flush() C:\xampp\htdocs\feed2\index.php:185
+[08-Oct-2013 09:54:50 Europe/Berlin] PHP   3. callback() C:\xampp\htdocs\feed2\index.php:185
+[08-Oct-2013 10:18:39 Europe/Berlin] PHP Fatal error:  Call to undefined function preg_replcae() in C:\xampp\htdocs\feed2\index.php on line 48
+[08-Oct-2013 10:18:39 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 10:18:39 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 10:18:39 Europe/Berlin] PHP   2. ob_end_flush() C:\xampp\htdocs\feed2\index.php:186
+[08-Oct-2013 10:18:39 Europe/Berlin] PHP   3. callback_buf() C:\xampp\htdocs\feed2\index.php:186
+[08-Oct-2013 10:19:01 Europe/Berlin] PHP Fatal error:  Call to undefined function preg_replcae() in C:\xampp\htdocs\feed2\index.php on line 48
+[08-Oct-2013 10:19:01 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 10:19:01 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 10:19:01 Europe/Berlin] PHP   2. ob_end_flush() C:\xampp\htdocs\feed2\index.php:186
+[08-Oct-2013 10:19:01 Europe/Berlin] PHP   3. callback_buf() C:\xampp\htdocs\feed2\index.php:186
+[08-Oct-2013 10:19:11 Europe/Berlin] PHP Fatal error:  Call to undefined function preg_replcae() in C:\xampp\htdocs\feed2\index.php on line 48
+[08-Oct-2013 10:19:11 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 10:19:11 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 10:19:11 Europe/Berlin] PHP   2. ob_end_flush() C:\xampp\htdocs\feed2\index.php:186
+[08-Oct-2013 10:19:11 Europe/Berlin] PHP   3. callback_buf() C:\xampp\htdocs\feed2\index.php:186
+[08-Oct-2013 10:19:30 Europe/Berlin] PHP Fatal error:  Call to undefined function preg_replcae() in C:\xampp\htdocs\feed2\index.php on line 48
+[08-Oct-2013 10:19:30 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 10:19:30 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 10:19:30 Europe/Berlin] PHP   2. ob_end_flush() C:\xampp\htdocs\feed2\index.php:186
+[08-Oct-2013 10:19:30 Europe/Berlin] PHP   3. callback_buf() C:\xampp\htdocs\feed2\index.php:186
+[08-Oct-2013 10:19:38 Europe/Berlin] PHP Fatal error:  Call to undefined function preg_replcae() in C:\xampp\htdocs\feed2\index.php on line 48
+[08-Oct-2013 10:19:38 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 10:19:38 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 10:19:38 Europe/Berlin] PHP   2. ob_end_flush() C:\xampp\htdocs\feed2\index.php:186
+[08-Oct-2013 10:19:38 Europe/Berlin] PHP   3. callback_buf() C:\xampp\htdocs\feed2\index.php:186
+[08-Oct-2013 10:20:58 Europe/Berlin] PHP Deprecated:  Function ereg_replace() is deprecated in C:\xampp\htdocs\feed2\index.php on line 107
+[08-Oct-2013 10:20:58 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 10:20:58 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 10:20:58 Europe/Berlin] PHP   2. ob_end_flush() C:\xampp\htdocs\feed2\index.php:185
+[08-Oct-2013 10:20:58 Europe/Berlin] PHP   3. callback_buf() C:\xampp\htdocs\feed2\index.php:185
+[08-Oct-2013 10:21:04 Europe/Berlin] PHP Deprecated:  Function ereg_replace() is deprecated in C:\xampp\htdocs\feed2\index.php on line 107
+[08-Oct-2013 10:21:04 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 10:21:04 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 10:21:04 Europe/Berlin] PHP   2. ob_end_flush() C:\xampp\htdocs\feed2\index.php:185
+[08-Oct-2013 10:21:04 Europe/Berlin] PHP   3. callback_buf() C:\xampp\htdocs\feed2\index.php:185
+[08-Oct-2013 10:21:10 Europe/Berlin] PHP Deprecated:  Function ereg_replace() is deprecated in C:\xampp\htdocs\feed2\index.php on line 107
+[08-Oct-2013 10:21:10 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 10:21:10 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 10:21:10 Europe/Berlin] PHP   2. ob_end_flush() C:\xampp\htdocs\feed2\index.php:185
+[08-Oct-2013 10:21:10 Europe/Berlin] PHP   3. callback_buf() C:\xampp\htdocs\feed2\index.php:185
+[08-Oct-2013 10:22:28 Europe/Berlin] PHP Deprecated:  Function ereg_replace() is deprecated in C:\xampp\htdocs\feed2\index.php on line 107
+[08-Oct-2013 10:22:28 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 10:22:28 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 10:22:28 Europe/Berlin] PHP   2. ob_end_flush() C:\xampp\htdocs\feed2\index.php:185
+[08-Oct-2013 10:22:28 Europe/Berlin] PHP   3. callback_buf() C:\xampp\htdocs\feed2\index.php:185
+[08-Oct-2013 10:22:54 Europe/Berlin] PHP Deprecated:  Function ereg_replace() is deprecated in C:\xampp\htdocs\feed2\index.php on line 107
+[08-Oct-2013 10:22:54 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 10:22:54 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 10:22:54 Europe/Berlin] PHP   2. ob_end_flush() C:\xampp\htdocs\feed2\index.php:185
+[08-Oct-2013 10:22:54 Europe/Berlin] PHP   3. callback_buf() C:\xampp\htdocs\feed2\index.php:185
+[08-Oct-2013 10:23:06 Europe/Berlin] PHP Deprecated:  Function ereg_replace() is deprecated in C:\xampp\htdocs\feed2\index.php on line 107
+[08-Oct-2013 10:23:06 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 10:23:06 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 10:23:06 Europe/Berlin] PHP   2. ob_end_flush() C:\xampp\htdocs\feed2\index.php:185
+[08-Oct-2013 10:23:06 Europe/Berlin] PHP   3. callback_buf() C:\xampp\htdocs\feed2\index.php:185
+[08-Oct-2013 10:25:25 Europe/Berlin] PHP Warning:  preg_replace(): Unknown modifier 'g' in C:\xampp\htdocs\feed2\index.php on line 106
+[08-Oct-2013 10:25:25 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 10:25:25 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 10:25:25 Europe/Berlin] PHP   2. ob_end_flush() C:\xampp\htdocs\feed2\index.php:186
+[08-Oct-2013 10:25:25 Europe/Berlin] PHP   3. callback_buf() C:\xampp\htdocs\feed2\index.php:186
+[08-Oct-2013 10:25:25 Europe/Berlin] PHP   4. preg_replace() C:\xampp\htdocs\feed2\index.php:106
+[08-Oct-2013 10:25:45 Europe/Berlin] PHP Warning:  preg_replace(): Unknown modifier 'g' in C:\xampp\htdocs\feed2\index.php on line 106
+[08-Oct-2013 10:25:45 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 10:25:45 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 10:25:45 Europe/Berlin] PHP   2. ob_end_flush() C:\xampp\htdocs\feed2\index.php:186
+[08-Oct-2013 10:25:45 Europe/Berlin] PHP   3. callback_buf() C:\xampp\htdocs\feed2\index.php:186
+[08-Oct-2013 10:25:45 Europe/Berlin] PHP   4. preg_replace() C:\xampp\htdocs\feed2\index.php:106
+[08-Oct-2013 10:25:51 Europe/Berlin] PHP Warning:  preg_replace(): Unknown modifier 'g' in C:\xampp\htdocs\feed2\index.php on line 106
+[08-Oct-2013 10:25:51 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 10:25:51 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 10:25:51 Europe/Berlin] PHP   2. ob_end_flush() C:\xampp\htdocs\feed2\index.php:186
+[08-Oct-2013 10:25:51 Europe/Berlin] PHP   3. callback_buf() C:\xampp\htdocs\feed2\index.php:186
+[08-Oct-2013 10:25:51 Europe/Berlin] PHP   4. preg_replace() C:\xampp\htdocs\feed2\index.php:106
+[08-Oct-2013 10:26:23 Europe/Berlin] PHP Warning:  preg_replace(): Unknown modifier 'g' in C:\xampp\htdocs\feed2\index.php on line 106
+[08-Oct-2013 10:26:23 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 10:26:23 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 10:26:23 Europe/Berlin] PHP   2. ob_end_flush() C:\xampp\htdocs\feed2\index.php:186
+[08-Oct-2013 10:26:23 Europe/Berlin] PHP   3. callback_buf() C:\xampp\htdocs\feed2\index.php:186
+[08-Oct-2013 10:26:23 Europe/Berlin] PHP   4. preg_replace() C:\xampp\htdocs\feed2\index.php:106
+[08-Oct-2013 12:14:24 Europe/Berlin] PHP Warning:  ob_start(): output handler 'ob_gzhandler' conflicts with 'zlib output compression' in C:\xampp\htdocs\feed2\index.php on line 186
+[08-Oct-2013 12:14:24 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 12:14:24 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 12:14:24 Europe/Berlin] PHP   2. ob_start() C:\xampp\htdocs\feed2\index.php:186
+[08-Oct-2013 12:14:53 Europe/Berlin] PHP Warning:  ob_start(): output handler 'ob_gzhandler' conflicts with 'zlib output compression' in C:\xampp\htdocs\feed2\index.php on line 186
+[08-Oct-2013 12:14:53 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 12:14:53 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 12:14:53 Europe/Berlin] PHP   2. ob_start() C:\xampp\htdocs\feed2\index.php:186
+[08-Oct-2013 12:15:58 Europe/Berlin] PHP Warning:  ob_start(): output handler 'ob_gzhandler' conflicts with 'zlib output compression' in C:\xampp\htdocs\feed2\index.php on line 187
+[08-Oct-2013 12:15:58 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 12:15:58 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 12:15:58 Europe/Berlin] PHP   2. ob_start() C:\xampp\htdocs\feed2\index.php:187
+[08-Oct-2013 12:16:19 Europe/Berlin] PHP Warning:  ob_start(): output handler 'ob_gzhandler' conflicts with 'zlib output compression' in C:\xampp\htdocs\feed2\index.php on line 187
+[08-Oct-2013 12:16:19 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 12:16:19 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 12:16:19 Europe/Berlin] PHP   2. ob_start() C:\xampp\htdocs\feed2\index.php:187
+[08-Oct-2013 12:16:41 Europe/Berlin] PHP Warning:  ob_start(): output handler 'ob_gzhandler' conflicts with 'zlib output compression' in C:\xampp\htdocs\feed2\index.php on line 187
+[08-Oct-2013 12:16:41 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 12:16:41 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 12:16:41 Europe/Berlin] PHP   2. ob_start() C:\xampp\htdocs\feed2\index.php:187
+[08-Oct-2013 12:16:49 Europe/Berlin] PHP Warning:  ob_start(): output handler 'ob_gzhandler' conflicts with 'zlib output compression' in C:\xampp\htdocs\feed2\index.php on line 187
+[08-Oct-2013 12:16:49 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 12:16:49 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 12:16:49 Europe/Berlin] PHP   2. ob_start() C:\xampp\htdocs\feed2\index.php:187
+[08-Oct-2013 12:20:56 Europe/Berlin] PHP Deprecated:  Function ereg_replace() is deprecated in C:\xampp\htdocs\feed2\index.php on line 178
+[08-Oct-2013 12:20:56 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 12:20:56 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 12:20:56 Europe/Berlin] PHP   2. ob_end_flush() C:\xampp\htdocs\feed2\index.php:194
+[08-Oct-2013 12:20:56 Europe/Berlin] PHP   3. callback_buf() C:\xampp\htdocs\feed2\index.php:194
+[08-Oct-2013 12:22:01 Europe/Berlin] PHP Deprecated:  Function ereg_replace() is deprecated in C:\xampp\htdocs\feed2\index.php on line 178
+[08-Oct-2013 12:22:01 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 12:22:01 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 12:22:01 Europe/Berlin] PHP   2. ob_end_flush() C:\xampp\htdocs\feed2\index.php:194
+[08-Oct-2013 12:22:01 Europe/Berlin] PHP   3. callback_buf() C:\xampp\htdocs\feed2\index.php:194
+[08-Oct-2013 12:22:16 Europe/Berlin] PHP Deprecated:  Function ereg_replace() is deprecated in C:\xampp\htdocs\feed2\index.php on line 178
+[08-Oct-2013 12:22:16 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 12:22:16 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 12:22:16 Europe/Berlin] PHP   2. ob_end_flush() C:\xampp\htdocs\feed2\index.php:194
+[08-Oct-2013 12:22:16 Europe/Berlin] PHP   3. callback_buf() C:\xampp\htdocs\feed2\index.php:194
+[08-Oct-2013 12:22:49 Europe/Berlin] PHP Deprecated:  Function ereg_replace() is deprecated in C:\xampp\htdocs\feed2\index.php on line 178
+[08-Oct-2013 12:22:49 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 12:22:49 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 12:22:49 Europe/Berlin] PHP   2. ob_end_flush() C:\xampp\htdocs\feed2\index.php:194
+[08-Oct-2013 12:22:49 Europe/Berlin] PHP   3. callback_buf() C:\xampp\htdocs\feed2\index.php:194
+[08-Oct-2013 12:22:54 Europe/Berlin] PHP Deprecated:  Function ereg_replace() is deprecated in C:\xampp\htdocs\feed2\index.php on line 178
+[08-Oct-2013 12:22:54 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 12:22:54 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 12:22:54 Europe/Berlin] PHP   2. ob_end_flush() C:\xampp\htdocs\feed2\index.php:194
+[08-Oct-2013 12:22:54 Europe/Berlin] PHP   3. callback_buf() C:\xampp\htdocs\feed2\index.php:194
+[08-Oct-2013 12:22:58 Europe/Berlin] PHP Deprecated:  Function ereg_replace() is deprecated in C:\xampp\htdocs\feed2\index.php on line 178
+[08-Oct-2013 12:22:58 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 12:22:58 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 12:22:58 Europe/Berlin] PHP   2. ob_end_flush() C:\xampp\htdocs\feed2\index.php:194
+[08-Oct-2013 12:22:58 Europe/Berlin] PHP   3. callback_buf() C:\xampp\htdocs\feed2\index.php:194
+[08-Oct-2013 12:23:15 Europe/Berlin] PHP Deprecated:  Function ereg_replace() is deprecated in C:\xampp\htdocs\feed2\index.php on line 178
+[08-Oct-2013 12:23:15 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 12:23:15 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 12:23:15 Europe/Berlin] PHP   2. ob_end_flush() C:\xampp\htdocs\feed2\index.php:194
+[08-Oct-2013 12:23:15 Europe/Berlin] PHP   3. callback_buf() C:\xampp\htdocs\feed2\index.php:194
+[08-Oct-2013 12:23:28 Europe/Berlin] PHP Deprecated:  Function ereg_replace() is deprecated in C:\xampp\htdocs\feed2\index.php on line 178
+[08-Oct-2013 12:23:28 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 12:23:28 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 12:23:28 Europe/Berlin] PHP   2. ob_end_flush() C:\xampp\htdocs\feed2\index.php:194
+[08-Oct-2013 12:23:28 Europe/Berlin] PHP   3. callback_buf() C:\xampp\htdocs\feed2\index.php:194
+[08-Oct-2013 12:23:34 Europe/Berlin] PHP Deprecated:  Function ereg_replace() is deprecated in C:\xampp\htdocs\feed2\index.php on line 178
+[08-Oct-2013 12:23:34 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 12:23:34 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 12:23:34 Europe/Berlin] PHP   2. ob_end_flush() C:\xampp\htdocs\feed2\index.php:194
+[08-Oct-2013 12:23:34 Europe/Berlin] PHP   3. callback_buf() C:\xampp\htdocs\feed2\index.php:194
+[08-Oct-2013 12:23:38 Europe/Berlin] PHP Deprecated:  Function ereg_replace() is deprecated in C:\xampp\htdocs\feed2\index.php on line 178
+[08-Oct-2013 12:23:38 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 12:23:38 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 12:23:38 Europe/Berlin] PHP   2. ob_end_flush() C:\xampp\htdocs\feed2\index.php:194
+[08-Oct-2013 12:23:38 Europe/Berlin] PHP   3. callback_buf() C:\xampp\htdocs\feed2\index.php:194
+[08-Oct-2013 12:23:57 Europe/Berlin] PHP Deprecated:  Function ereg_replace() is deprecated in C:\xampp\htdocs\feed2\index.php on line 178
+[08-Oct-2013 12:23:57 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 12:23:57 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 12:23:57 Europe/Berlin] PHP   2. ob_end_flush() C:\xampp\htdocs\feed2\index.php:194
+[08-Oct-2013 12:23:57 Europe/Berlin] PHP   3. callback_buf() C:\xampp\htdocs\feed2\index.php:194
+[08-Oct-2013 12:28:54 Europe/Berlin] PHP Deprecated:  Function ereg_replace() is deprecated in C:\xampp\htdocs\feed2\index.php on line 106
+[08-Oct-2013 12:28:54 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 12:28:54 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 12:28:54 Europe/Berlin] PHP   2. ob_end_flush() C:\xampp\htdocs\feed2\index.php:195
+[08-Oct-2013 12:28:54 Europe/Berlin] PHP   3. {closure:C:\xampp\htdocs\feed2\index.php:106-106}() C:\xampp\htdocs\feed2\index.php:195
+[08-Oct-2013 12:28:54 Europe/Berlin] PHP Warning:  ereg_replace() expects exactly 3 parameters, 2 given in C:\xampp\htdocs\feed2\index.php on line 106
+[08-Oct-2013 12:28:54 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 12:28:54 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 12:28:54 Europe/Berlin] PHP   2. ob_end_flush() C:\xampp\htdocs\feed2\index.php:195
+[08-Oct-2013 12:28:54 Europe/Berlin] PHP   3. {closure:C:\xampp\htdocs\feed2\index.php:106-106}() C:\xampp\htdocs\feed2\index.php:195
+[08-Oct-2013 12:28:54 Europe/Berlin] PHP   4. ereg_replace() C:\xampp\htdocs\feed2\index.php:106
+[08-Oct-2013 12:30:07 Europe/Berlin] PHP Deprecated:  Function ereg_replace() is deprecated in C:\xampp\htdocs\feed2\index.php on line 106
+[08-Oct-2013 12:30:07 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 12:30:07 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 12:30:07 Europe/Berlin] PHP   2. ob_end_flush() C:\xampp\htdocs\feed2\index.php:195
+[08-Oct-2013 12:30:07 Europe/Berlin] PHP   3. {closure:C:\xampp\htdocs\feed2\index.php:106-106}() C:\xampp\htdocs\feed2\index.php:195
+[08-Oct-2013 12:30:14 Europe/Berlin] PHP Deprecated:  Function ereg_replace() is deprecated in C:\xampp\htdocs\feed2\index.php on line 106
+[08-Oct-2013 12:30:14 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 12:30:14 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 12:30:14 Europe/Berlin] PHP   2. ob_end_flush() C:\xampp\htdocs\feed2\index.php:195
+[08-Oct-2013 12:30:14 Europe/Berlin] PHP   3. {closure:C:\xampp\htdocs\feed2\index.php:106-106}() C:\xampp\htdocs\feed2\index.php:195
+[08-Oct-2013 12:31:13 Europe/Berlin] PHP Deprecated:  Function ereg_replace() is deprecated in C:\xampp\htdocs\feed2\index.php on line 106
+[08-Oct-2013 12:31:13 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 12:31:13 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 12:31:13 Europe/Berlin] PHP   2. ob_end_flush() C:\xampp\htdocs\feed2\index.php:195
+[08-Oct-2013 12:31:13 Europe/Berlin] PHP   3. {closure:C:\xampp\htdocs\feed2\index.php:106-106}() C:\xampp\htdocs\feed2\index.php:195
+[08-Oct-2013 12:31:36 Europe/Berlin] PHP Deprecated:  Function ereg_replace() is deprecated in C:\xampp\htdocs\feed2\index.php on line 106
+[08-Oct-2013 12:31:36 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 12:31:36 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 12:31:36 Europe/Berlin] PHP   2. ob_end_flush() C:\xampp\htdocs\feed2\index.php:195
+[08-Oct-2013 12:31:36 Europe/Berlin] PHP   3. {closure:C:\xampp\htdocs\feed2\index.php:106-106}() C:\xampp\htdocs\feed2\index.php:195
+[08-Oct-2013 12:31:42 Europe/Berlin] PHP Deprecated:  Function ereg_replace() is deprecated in C:\xampp\htdocs\feed2\index.php on line 106
+[08-Oct-2013 12:31:42 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 12:31:42 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 12:31:42 Europe/Berlin] PHP   2. ob_end_flush() C:\xampp\htdocs\feed2\index.php:195
+[08-Oct-2013 12:31:42 Europe/Berlin] PHP   3. {closure:C:\xampp\htdocs\feed2\index.php:106-106}() C:\xampp\htdocs\feed2\index.php:195
+[08-Oct-2013 12:32:32 Europe/Berlin] PHP Deprecated:  Function ereg_replace() is deprecated in C:\xampp\htdocs\feed2\index.php on line 106
+[08-Oct-2013 12:32:32 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 12:32:32 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 12:32:32 Europe/Berlin] PHP   2. ob_end_flush() C:\xampp\htdocs\feed2\index.php:195
+[08-Oct-2013 12:32:32 Europe/Berlin] PHP   3. {closure:C:\xampp\htdocs\feed2\index.php:106-106}() C:\xampp\htdocs\feed2\index.php:195
+[08-Oct-2013 12:33:35 Europe/Berlin] PHP Deprecated:  Function ereg_replace() is deprecated in C:\xampp\htdocs\feed2\index.php on line 106
+[08-Oct-2013 12:33:35 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 12:33:35 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 12:33:35 Europe/Berlin] PHP   2. ob_end_flush() C:\xampp\htdocs\feed2\index.php:195
+[08-Oct-2013 12:33:35 Europe/Berlin] PHP   3. {closure:C:\xampp\htdocs\feed2\index.php:106-106}() C:\xampp\htdocs\feed2\index.php:195
+[08-Oct-2013 12:35:54 Europe/Berlin] PHP Deprecated:  Function ereg_replace() is deprecated in C:\xampp\htdocs\feed2\index.php on line 106
+[08-Oct-2013 12:35:54 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 12:35:54 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 12:35:54 Europe/Berlin] PHP   2. ob_end_flush() C:\xampp\htdocs\feed2\index.php:195
+[08-Oct-2013 12:35:54 Europe/Berlin] PHP   3. {closure:C:\xampp\htdocs\feed2\index.php:106-106}() C:\xampp\htdocs\feed2\index.php:195
+[08-Oct-2013 12:36:12 Europe/Berlin] PHP Deprecated:  Function ereg_replace() is deprecated in C:\xampp\htdocs\feed2\index.php on line 106
+[08-Oct-2013 12:36:12 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 12:36:12 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 12:36:12 Europe/Berlin] PHP   2. ob_end_flush() C:\xampp\htdocs\feed2\index.php:195
+[08-Oct-2013 12:36:12 Europe/Berlin] PHP   3. {closure:C:\xampp\htdocs\feed2\index.php:106-106}() C:\xampp\htdocs\feed2\index.php:195
+[08-Oct-2013 12:36:17 Europe/Berlin] PHP Deprecated:  Function ereg_replace() is deprecated in C:\xampp\htdocs\feed2\index.php on line 106
+[08-Oct-2013 12:36:17 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 12:36:17 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 12:36:17 Europe/Berlin] PHP   2. ob_end_flush() C:\xampp\htdocs\feed2\index.php:195
+[08-Oct-2013 12:36:17 Europe/Berlin] PHP   3. {closure:C:\xampp\htdocs\feed2\index.php:106-106}() C:\xampp\htdocs\feed2\index.php:195
+[08-Oct-2013 12:36:46 Europe/Berlin] PHP Deprecated:  Function ereg_replace() is deprecated in C:\xampp\htdocs\feed2\index.php on line 106
+[08-Oct-2013 12:36:46 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 12:36:46 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 12:36:46 Europe/Berlin] PHP   2. ob_end_flush() C:\xampp\htdocs\feed2\index.php:195
+[08-Oct-2013 12:36:46 Europe/Berlin] PHP   3. {closure:C:\xampp\htdocs\feed2\index.php:106-106}() C:\xampp\htdocs\feed2\index.php:195
+[08-Oct-2013 12:38:21 Europe/Berlin] PHP Deprecated:  Function ereg_replace() is deprecated in C:\xampp\htdocs\feed2\index.php on line 106
+[08-Oct-2013 12:38:21 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 12:38:21 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 12:38:21 Europe/Berlin] PHP   2. ob_end_flush() C:\xampp\htdocs\feed2\index.php:195
+[08-Oct-2013 12:38:21 Europe/Berlin] PHP   3. {closure:C:\xampp\htdocs\feed2\index.php:106-106}() C:\xampp\htdocs\feed2\index.php:195
+[08-Oct-2013 12:40:23 Europe/Berlin] PHP Deprecated:  Function ereg_replace() is deprecated in C:\xampp\htdocs\feed2\index.php on line 184
+[08-Oct-2013 12:40:23 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 12:40:23 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 12:40:23 Europe/Berlin] PHP   2. ob_end_flush() C:\xampp\htdocs\feed2\index.php:194
+[08-Oct-2013 12:40:23 Europe/Berlin] PHP   3. {closure:C:\xampp\htdocs\feed2\index.php:184-184}() C:\xampp\htdocs\feed2\index.php:194
+[08-Oct-2013 12:41:49 Europe/Berlin] PHP Deprecated:  Function ereg_replace() is deprecated in C:\xampp\htdocs\feed2\index.php on line 174
+[08-Oct-2013 12:41:49 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 12:41:49 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 12:41:49 Europe/Berlin] PHP   2. ob_end_flush() C:\xampp\htdocs\feed2\index.php:189
+[08-Oct-2013 12:41:49 Europe/Berlin] PHP   3. callback_buf() C:\xampp\htdocs\feed2\index.php:189
+[08-Oct-2013 12:41:59 Europe/Berlin] PHP Deprecated:  Function ereg_replace() is deprecated in C:\xampp\htdocs\feed2\index.php on line 174
+[08-Oct-2013 12:41:59 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 12:41:59 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 12:41:59 Europe/Berlin] PHP   2. ob_end_flush() C:\xampp\htdocs\feed2\index.php:189
+[08-Oct-2013 12:41:59 Europe/Berlin] PHP   3. callback_buf() C:\xampp\htdocs\feed2\index.php:189
+[08-Oct-2013 12:42:03 Europe/Berlin] PHP Deprecated:  Function ereg_replace() is deprecated in C:\xampp\htdocs\feed2\index.php on line 174
+[08-Oct-2013 12:42:03 Europe/Berlin] PHP Stack trace:
+[08-Oct-2013 12:42:03 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[08-Oct-2013 12:42:03 Europe/Berlin] PHP   2. ob_end_flush() C:\xampp\htdocs\feed2\index.php:189
+[08-Oct-2013 12:42:03 Europe/Berlin] PHP   3. callback_buf() C:\xampp\htdocs\feed2\index.php:189
+[14-Oct-2013 09:58:25 Europe/Berlin] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[14-Oct-2013 09:58:25 Europe/Berlin] PHP Stack trace:
+[14-Oct-2013 09:58:25 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[14-Oct-2013 09:58:25 Europe/Berlin] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[14-Oct-2013 09:58:25 Europe/Berlin] PHP Stack trace:
+[14-Oct-2013 09:58:25 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[14-Oct-2013 09:59:45 Europe/Berlin] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[14-Oct-2013 09:59:45 Europe/Berlin] PHP Stack trace:
+[14-Oct-2013 09:59:45 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[14-Oct-2013 09:59:45 Europe/Berlin] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[14-Oct-2013 09:59:45 Europe/Berlin] PHP Stack trace:
+[14-Oct-2013 09:59:45 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[14-Oct-2013 10:01:54 Europe/Berlin] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[14-Oct-2013 10:01:54 Europe/Berlin] PHP Stack trace:
+[14-Oct-2013 10:01:54 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[14-Oct-2013 10:01:54 Europe/Berlin] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[14-Oct-2013 10:01:54 Europe/Berlin] PHP Stack trace:
+[14-Oct-2013 10:01:54 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[14-Oct-2013 10:02:49 Europe/Berlin] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[14-Oct-2013 10:02:49 Europe/Berlin] PHP Stack trace:
+[14-Oct-2013 10:02:49 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[14-Oct-2013 10:02:49 Europe/Berlin] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[14-Oct-2013 10:02:49 Europe/Berlin] PHP Stack trace:
+[14-Oct-2013 10:02:49 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[14-Oct-2013 10:03:51 Europe/Berlin] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[14-Oct-2013 10:03:51 Europe/Berlin] PHP Stack trace:
+[14-Oct-2013 10:03:51 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[14-Oct-2013 10:03:51 Europe/Berlin] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[14-Oct-2013 10:03:51 Europe/Berlin] PHP Stack trace:
+[14-Oct-2013 10:03:51 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[14-Oct-2013 10:15:21 Europe/Berlin] PHP Fatal error:  Uncaught exception 'Exception' with message 'файла feed.xmlне существует' in C:\xampp\htdocs\feed2\index.php:55
+Stack trace:
+#0 C:\xampp\htdocs\feed2\index.php(140): to_file('feed.xml', '<weather>??????...')
+#1 {main}
+  thrown in C:\xampp\htdocs\feed2\index.php on line 55
+[14-Oct-2013 10:15:47 Europe/Berlin] PHP Fatal error:  Uncaught exception 'Exception' with message 'файла feed.xmlне существует' in C:\xampp\htdocs\feed2\index.php:55
+Stack trace:
+#0 C:\xampp\htdocs\feed2\index.php(140): to_file('feed.xml', '<weather>??????...')
+#1 {main}
+  thrown in C:\xampp\htdocs\feed2\index.php on line 55
+[14-Oct-2013 10:16:08 Europe/Berlin] PHP Fatal error:  Uncaught exception 'Exception' with message 'файла feed.xmlне существует' in C:\xampp\htdocs\feed2\index.php:55
+Stack trace:
+#0 C:\xampp\htdocs\feed2\index.php(140): to_file('feed.xml', '<weather>??????...')
+#1 {main}
+  thrown in C:\xampp\htdocs\feed2\index.php on line 55
+[14-Oct-2013 10:48:06 Europe/Berlin] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[14-Oct-2013 10:48:06 Europe/Berlin] PHP Stack trace:
+[14-Oct-2013 10:48:06 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[14-Oct-2013 10:48:06 Europe/Berlin] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[14-Oct-2013 10:48:06 Europe/Berlin] PHP Stack trace:
+[14-Oct-2013 10:48:06 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[14-Oct-2013 10:48:08 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[14-Oct-2013 10:48:08 Europe/Berlin] PHP Stack trace:
+[14-Oct-2013 10:48:08 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[14-Oct-2013 10:48:08 Europe/Berlin] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[14-Oct-2013 10:48:42 Europe/Berlin] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[14-Oct-2013 10:48:42 Europe/Berlin] PHP Stack trace:
+[14-Oct-2013 10:48:42 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[14-Oct-2013 10:48:42 Europe/Berlin] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[14-Oct-2013 10:48:42 Europe/Berlin] PHP Stack trace:
+[14-Oct-2013 10:48:42 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[14-Oct-2013 10:48:43 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[14-Oct-2013 10:48:43 Europe/Berlin] PHP Stack trace:
+[14-Oct-2013 10:48:43 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[14-Oct-2013 10:48:43 Europe/Berlin] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[14-Oct-2013 11:02:43 Europe/Berlin] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[14-Oct-2013 11:02:43 Europe/Berlin] PHP Stack trace:
+[14-Oct-2013 11:02:43 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[14-Oct-2013 11:02:43 Europe/Berlin] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[14-Oct-2013 11:02:43 Europe/Berlin] PHP Stack trace:
+[14-Oct-2013 11:02:43 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[14-Oct-2013 11:02:45 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[14-Oct-2013 11:02:45 Europe/Berlin] PHP Stack trace:
+[14-Oct-2013 11:02:45 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[14-Oct-2013 11:02:45 Europe/Berlin] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[14-Oct-2013 11:03:45 Europe/Berlin] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[14-Oct-2013 11:03:45 Europe/Berlin] PHP Stack trace:
+[14-Oct-2013 11:03:45 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[14-Oct-2013 11:03:45 Europe/Berlin] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[14-Oct-2013 11:03:45 Europe/Berlin] PHP Stack trace:
+[14-Oct-2013 11:03:45 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[14-Oct-2013 11:03:46 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[14-Oct-2013 11:03:46 Europe/Berlin] PHP Stack trace:
+[14-Oct-2013 11:03:46 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[14-Oct-2013 11:03:46 Europe/Berlin] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[14-Oct-2013 11:05:23 Europe/Berlin] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[14-Oct-2013 11:05:23 Europe/Berlin] PHP Stack trace:
+[14-Oct-2013 11:05:23 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[14-Oct-2013 11:05:23 Europe/Berlin] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[14-Oct-2013 11:05:23 Europe/Berlin] PHP Stack trace:
+[14-Oct-2013 11:05:23 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[14-Oct-2013 11:05:25 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[14-Oct-2013 11:05:25 Europe/Berlin] PHP Stack trace:
+[14-Oct-2013 11:05:25 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[14-Oct-2013 11:05:25 Europe/Berlin] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[14-Oct-2013 11:07:31 Europe/Berlin] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[14-Oct-2013 11:07:31 Europe/Berlin] PHP Stack trace:
+[14-Oct-2013 11:07:31 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[14-Oct-2013 11:07:31 Europe/Berlin] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[14-Oct-2013 11:07:31 Europe/Berlin] PHP Stack trace:
+[14-Oct-2013 11:07:31 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[14-Oct-2013 11:07:34 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[14-Oct-2013 11:07:34 Europe/Berlin] PHP Stack trace:
+[14-Oct-2013 11:07:34 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[14-Oct-2013 11:07:34 Europe/Berlin] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[14-Oct-2013 11:11:54 Europe/Berlin] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[14-Oct-2013 11:11:54 Europe/Berlin] PHP Stack trace:
+[14-Oct-2013 11:11:54 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[14-Oct-2013 11:11:54 Europe/Berlin] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[14-Oct-2013 11:11:54 Europe/Berlin] PHP Stack trace:
+[14-Oct-2013 11:11:54 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[14-Oct-2013 11:11:57 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[14-Oct-2013 11:11:57 Europe/Berlin] PHP Stack trace:
+[14-Oct-2013 11:11:57 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[14-Oct-2013 11:11:57 Europe/Berlin] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[14-Oct-2013 11:12:18 Europe/Berlin] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[14-Oct-2013 11:12:18 Europe/Berlin] PHP Stack trace:
+[14-Oct-2013 11:12:18 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[14-Oct-2013 11:12:18 Europe/Berlin] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[14-Oct-2013 11:12:18 Europe/Berlin] PHP Stack trace:
+[14-Oct-2013 11:12:18 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[14-Oct-2013 11:12:20 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[14-Oct-2013 11:12:20 Europe/Berlin] PHP Stack trace:
+[14-Oct-2013 11:12:20 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[14-Oct-2013 11:12:20 Europe/Berlin] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[14-Oct-2013 11:21:08 Europe/Berlin] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[14-Oct-2013 11:21:08 Europe/Berlin] PHP Stack trace:
+[14-Oct-2013 11:21:08 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[14-Oct-2013 11:21:08 Europe/Berlin] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[14-Oct-2013 11:21:08 Europe/Berlin] PHP Stack trace:
+[14-Oct-2013 11:21:08 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[14-Oct-2013 11:21:10 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[14-Oct-2013 11:21:10 Europe/Berlin] PHP Stack trace:
+[14-Oct-2013 11:21:10 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[14-Oct-2013 11:21:10 Europe/Berlin] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[14-Oct-2013 11:40:35 Europe/Berlin] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[14-Oct-2013 11:40:35 Europe/Berlin] PHP Stack trace:
+[14-Oct-2013 11:40:35 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[14-Oct-2013 11:40:35 Europe/Berlin] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[14-Oct-2013 11:40:35 Europe/Berlin] PHP Stack trace:
+[14-Oct-2013 11:40:35 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[14-Oct-2013 11:40:38 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[14-Oct-2013 11:40:38 Europe/Berlin] PHP Stack trace:
+[14-Oct-2013 11:40:38 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[14-Oct-2013 11:40:38 Europe/Berlin] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[14-Oct-2013 12:00:16 Europe/Berlin] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[14-Oct-2013 12:00:16 Europe/Berlin] PHP Stack trace:
+[14-Oct-2013 12:00:16 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[14-Oct-2013 12:00:16 Europe/Berlin] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[14-Oct-2013 12:00:16 Europe/Berlin] PHP Stack trace:
+[14-Oct-2013 12:00:16 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[14-Oct-2013 12:00:20 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[14-Oct-2013 12:00:20 Europe/Berlin] PHP Stack trace:
+[14-Oct-2013 12:00:20 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[14-Oct-2013 12:00:20 Europe/Berlin] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[28-Oct-2013 13:05:14 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 13:05:14 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 13:05:14 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 13:05:14 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 13:05:14 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 13:05:14 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 13:05:17 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[28-Oct-2013 13:05:17 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 13:05:17 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 13:05:17 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[28-Oct-2013 13:16:16 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 13:16:16 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 13:16:16 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 13:16:16 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 13:16:16 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 13:16:16 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 13:16:18 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[28-Oct-2013 13:16:18 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 13:16:18 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 13:16:18 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[28-Oct-2013 13:42:08 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 13:42:08 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 13:42:08 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 13:42:08 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 13:42:08 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 13:42:08 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 13:42:10 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[28-Oct-2013 13:42:10 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 13:42:10 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 13:42:10 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[28-Oct-2013 13:43:28 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 13:43:28 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 13:43:28 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 13:43:28 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 13:43:28 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 13:43:28 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 13:43:30 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[28-Oct-2013 13:43:30 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 13:43:30 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 13:43:30 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[28-Oct-2013 13:44:47 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 13:44:47 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 13:44:47 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 13:44:47 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 13:44:47 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 13:44:47 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 13:44:48 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[28-Oct-2013 13:44:48 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 13:44:48 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 13:44:48 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[28-Oct-2013 13:44:56 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 13:44:56 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 13:44:56 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 13:44:56 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 13:44:56 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 13:44:56 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 13:44:58 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[28-Oct-2013 13:44:58 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 13:44:58 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 13:44:58 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[28-Oct-2013 13:46:47 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 13:46:47 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 13:46:47 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 13:46:47 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 13:46:47 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 13:46:47 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 13:46:48 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[28-Oct-2013 13:46:48 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 13:46:48 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 13:46:48 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[28-Oct-2013 13:47:01 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 13:47:01 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 13:47:01 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 13:47:01 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 13:47:01 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 13:47:01 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 13:47:03 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[28-Oct-2013 13:47:03 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 13:47:03 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 13:47:03 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[28-Oct-2013 13:48:39 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 13:48:39 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 13:48:39 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 13:48:39 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 13:48:39 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 13:48:39 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 13:48:41 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[28-Oct-2013 13:48:41 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 13:48:41 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 13:48:41 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[28-Oct-2013 13:50:40 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 13:50:40 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 13:50:40 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 13:50:40 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 13:50:40 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 13:50:40 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 13:50:41 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[28-Oct-2013 13:50:41 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 13:50:41 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 13:50:41 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[28-Oct-2013 13:51:49 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 13:51:49 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 13:51:49 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 13:51:49 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 13:51:49 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 13:51:49 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 13:51:52 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[28-Oct-2013 13:51:52 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 13:51:52 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 13:51:52 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[28-Oct-2013 13:54:53 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 13:54:53 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 13:54:53 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 13:54:53 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 13:54:53 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 13:54:53 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 13:54:55 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[28-Oct-2013 13:54:55 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 13:54:55 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 13:54:55 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[28-Oct-2013 13:56:02 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 13:56:02 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 13:56:02 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 13:56:02 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 13:56:02 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 13:56:02 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 13:56:08 Europe/Moscow] PHP Notice:  Use of undefined constant ERROR_Rosa1600 - assumed 'ERROR_Rosa1600' in C:\xampp\htdocs\feed2\index.php on line 136
+[28-Oct-2013 13:56:08 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 13:56:08 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 13:56:08 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[28-Oct-2013 13:56:08 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 13:56:08 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 13:56:08 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[28-Oct-2013 13:59:13 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 13:59:13 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 13:59:13 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 13:59:13 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 13:59:13 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 13:59:13 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 13:59:17 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[28-Oct-2013 13:59:17 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 13:59:17 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 13:59:17 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[28-Oct-2013 14:01:53 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 14:01:53 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:01:53 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:01:53 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 14:01:53 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:01:53 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:01:56 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[28-Oct-2013 14:01:56 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:01:56 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:01:56 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[28-Oct-2013 14:02:30 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 14:02:30 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:02:30 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:02:30 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 14:02:30 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:02:30 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:02:33 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[28-Oct-2013 14:02:33 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:02:33 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:02:33 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[28-Oct-2013 14:02:38 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 14:02:38 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:02:38 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:02:38 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 14:02:38 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:02:38 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:02:41 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[28-Oct-2013 14:02:41 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:02:41 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:02:41 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[28-Oct-2013 14:11:19 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 14:11:19 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:11:19 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:11:19 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 14:11:19 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:11:19 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:11:22 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[28-Oct-2013 14:11:22 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:11:22 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:11:22 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[28-Oct-2013 14:12:14 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 14:12:14 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:12:14 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:12:14 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 14:12:14 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:12:14 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:12:17 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[28-Oct-2013 14:12:17 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:12:17 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:12:17 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[28-Oct-2013 14:16:05 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 14:16:05 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:16:05 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:16:05 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 14:16:05 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:16:05 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:16:07 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[28-Oct-2013 14:16:07 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:16:07 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:16:07 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[28-Oct-2013 14:17:16 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 14:17:16 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:17:16 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:17:16 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 14:17:16 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:17:16 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:17:17 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[28-Oct-2013 14:17:17 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:17:17 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:17:17 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[28-Oct-2013 14:18:02 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 14:18:02 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:18:02 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:18:02 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 14:18:02 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:18:02 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:18:04 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[28-Oct-2013 14:18:04 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:18:04 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:18:04 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[28-Oct-2013 14:18:32 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 14:18:32 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:18:32 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:18:32 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 14:18:32 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:18:32 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:18:34 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[28-Oct-2013 14:18:34 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:18:34 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:18:34 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[28-Oct-2013 14:19:33 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 14:19:33 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:19:33 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:19:33 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 14:19:33 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:19:33 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:19:34 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[28-Oct-2013 14:19:34 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:19:34 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:19:34 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[28-Oct-2013 14:19:42 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 14:19:42 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:19:42 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:19:42 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 14:19:42 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:19:42 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:19:44 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[28-Oct-2013 14:19:44 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:19:44 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:19:44 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[28-Oct-2013 14:20:08 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 14:20:08 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:20:08 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:20:08 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 14:20:08 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:20:08 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:20:09 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[28-Oct-2013 14:20:09 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:20:09 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:20:09 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[28-Oct-2013 14:20:59 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 14:20:59 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:20:59 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:20:59 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 14:20:59 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:20:59 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:21:01 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[28-Oct-2013 14:21:01 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:21:01 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:21:01 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[28-Oct-2013 14:22:10 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 14:22:10 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:22:10 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:22:10 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 14:22:10 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:22:10 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:22:12 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[28-Oct-2013 14:22:12 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:22:12 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:22:12 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[28-Oct-2013 14:24:29 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 14:24:29 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:24:29 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:24:29 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 14:24:29 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:24:29 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:24:31 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[28-Oct-2013 14:24:31 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:24:31 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:24:31 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[28-Oct-2013 14:24:53 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 14:24:53 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:24:53 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:24:53 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 14:24:53 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:24:53 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:24:54 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[28-Oct-2013 14:24:54 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:24:54 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:24:54 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[28-Oct-2013 14:25:39 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 14:25:39 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:25:39 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:25:39 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 14:25:39 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:25:39 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:25:40 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[28-Oct-2013 14:25:40 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:25:40 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:25:40 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[28-Oct-2013 14:25:59 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 14:25:59 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:25:59 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:25:59 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 14:25:59 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:25:59 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:26:00 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[28-Oct-2013 14:26:00 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:26:00 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:26:00 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[28-Oct-2013 14:26:04 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 14:26:04 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:26:04 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:26:04 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 14:26:04 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:26:04 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:26:06 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[28-Oct-2013 14:26:06 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:26:06 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:26:06 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[28-Oct-2013 14:28:26 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 14:28:26 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:28:26 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:28:26 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 14:28:26 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:28:26 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:28:28 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[28-Oct-2013 14:28:28 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:28:28 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:28:28 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[28-Oct-2013 14:28:34 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 14:28:34 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:28:34 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:28:34 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 14:28:34 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:28:34 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:28:35 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[28-Oct-2013 14:28:35 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:28:35 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:28:35 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[28-Oct-2013 14:31:06 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 14:31:06 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:31:06 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:31:06 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 14:31:06 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:31:06 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:31:08 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[28-Oct-2013 14:31:08 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:31:08 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:31:08 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[28-Oct-2013 14:33:19 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 14:33:19 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:33:19 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:33:19 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 14:33:19 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:33:19 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:33:20 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[28-Oct-2013 14:33:20 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:33:20 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:33:20 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[28-Oct-2013 14:37:48 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 14:37:48 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:37:48 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:37:48 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 14:37:48 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:37:48 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:37:50 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[28-Oct-2013 14:37:50 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:37:50 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:37:50 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[28-Oct-2013 14:41:02 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 14:41:02 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:41:02 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:41:02 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 14:41:02 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:41:02 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:41:05 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[28-Oct-2013 14:41:05 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:41:05 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:41:05 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[28-Oct-2013 14:42:55 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 14:42:55 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:42:55 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:42:55 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 14:42:55 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:42:55 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:42:57 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[28-Oct-2013 14:42:57 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:42:57 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:42:57 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[28-Oct-2013 14:45:23 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 14:45:23 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:45:23 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:45:24 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 14:45:24 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:45:24 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:45:26 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[28-Oct-2013 14:45:26 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:45:26 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:45:26 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[28-Oct-2013 14:49:37 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 14:49:37 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:49:37 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:49:37 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 14:49:37 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:49:37 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:49:39 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[28-Oct-2013 14:49:39 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 14:49:39 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 14:49:39 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[28-Oct-2013 15:03:23 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 15:03:23 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 15:03:23 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 15:03:23 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 15:03:23 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 15:03:23 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 15:03:25 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[28-Oct-2013 15:03:25 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 15:03:25 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 15:03:25 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[28-Oct-2013 15:04:42 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 15:04:42 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 15:04:42 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 15:04:42 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 15:04:42 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 15:04:42 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 15:04:44 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[28-Oct-2013 15:04:44 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 15:04:44 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 15:04:44 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[28-Oct-2013 15:08:28 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 15:08:28 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 15:08:28 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 15:08:28 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 15:08:28 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 15:08:28 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 15:08:30 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[28-Oct-2013 15:08:30 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 15:08:30 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 15:08:30 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[28-Oct-2013 15:48:27 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 15:48:28 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 15:48:28 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 15:48:28 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 15:48:28 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 15:48:28 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 15:48:30 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[28-Oct-2013 15:48:30 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 15:48:30 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 15:48:30 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[28-Oct-2013 16:02:26 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 16:02:26 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 16:02:26 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 16:02:26 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 16:02:26 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 16:02:26 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 16:02:28 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[28-Oct-2013 16:02:28 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 16:02:28 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 16:02:28 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[28-Oct-2013 16:02:51 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 16:02:51 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 16:02:51 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 16:02:51 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 16:02:51 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 16:02:51 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 16:02:53 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[28-Oct-2013 16:02:53 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 16:02:53 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 16:02:53 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[28-Oct-2013 16:22:14 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 16:22:14 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 16:22:14 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 16:22:14 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 16:22:14 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 16:22:14 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 16:22:19 Europe/Moscow] PHP Notice:  Use of undefined constant ERROR_Rosa1600 - assumed 'ERROR_Rosa1600' in C:\xampp\htdocs\feed2\index.php on line 136
+[28-Oct-2013 16:22:19 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 16:22:19 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 16:23:03 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 16:23:03 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 16:23:03 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 16:23:03 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 16:23:03 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 16:23:03 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 16:23:07 Europe/Moscow] PHP Notice:  Use of undefined constant ERROR_Rosa1600 - assumed 'ERROR_Rosa1600' in C:\xampp\htdocs\feed2\index.php on line 136
+[28-Oct-2013 16:23:07 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 16:23:07 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 16:23:45 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 16:23:45 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 16:23:45 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 16:23:45 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 16:23:45 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 16:23:45 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 16:23:49 Europe/Moscow] PHP Notice:  Use of undefined constant ERROR_Rosa1600 - assumed 'ERROR_Rosa1600' in C:\xampp\htdocs\feed2\index.php on line 136
+[28-Oct-2013 16:23:49 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 16:23:49 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 16:26:30 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 16:26:30 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 16:26:30 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 16:26:30 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 16:26:30 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 16:26:30 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 16:26:34 Europe/Moscow] PHP Notice:  Use of undefined constant ERROR_Rosa1600 - assumed 'ERROR_Rosa1600' in C:\xampp\htdocs\feed2\index.php on line 136
+[28-Oct-2013 16:26:34 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 16:26:34 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 16:27:03 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 16:27:03 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 16:27:03 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 16:27:03 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 16:27:03 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 16:27:03 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 16:27:07 Europe/Moscow] PHP Notice:  Use of undefined constant ERROR_Rosa1600 - assumed 'ERROR_Rosa1600' in C:\xampp\htdocs\feed2\index.php on line 136
+[28-Oct-2013 16:27:07 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 16:27:07 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 16:29:05 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 16:29:05 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 16:29:05 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 16:29:05 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 16:29:05 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 16:29:05 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 16:29:09 Europe/Moscow] PHP Notice:  Use of undefined constant ERROR_Rosa1600 - assumed 'ERROR_Rosa1600' in C:\xampp\htdocs\feed2\index.php on line 136
+[28-Oct-2013 16:29:09 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 16:29:09 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 16:29:19 Europe/Moscow] PHP Notice:  Use of undefined constant ERROR_Rosa1600 - assumed 'ERROR_Rosa1600' in C:\xampp\htdocs\feed2\index.php on line 136
+[28-Oct-2013 16:29:19 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 16:29:19 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 16:46:41 Europe/Moscow] PHP Notice:  Use of undefined constant ERROR_Rosa1600 - assumed 'ERROR_Rosa1600' in C:\xampp\htdocs\feed2\index.php on line 136
+[28-Oct-2013 16:46:41 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 16:46:41 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 16:46:52 Europe/Moscow] PHP Notice:  Use of undefined constant ERROR_Rosa1600 - assumed 'ERROR_Rosa1600' in C:\xampp\htdocs\feed2\index.php on line 136
+[28-Oct-2013 16:46:52 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 16:46:52 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 16:47:02 Europe/Moscow] PHP Notice:  Use of undefined constant ERROR_Rosa1600 - assumed 'ERROR_Rosa1600' in C:\xampp\htdocs\feed2\index.php on line 136
+[28-Oct-2013 16:47:02 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 16:47:02 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 16:58:38 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 16:58:38 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 16:58:38 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 16:58:38 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 16:58:38 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 16:58:38 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 16:58:40 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[28-Oct-2013 16:58:40 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 16:58:40 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 16:58:40 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[28-Oct-2013 16:59:58 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 16:59:58 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 16:59:58 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 16:59:58 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 16:59:58 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 16:59:58 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 17:00:01 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[28-Oct-2013 17:00:01 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 17:00:01 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 17:00:01 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[28-Oct-2013 17:02:55 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 17:02:55 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 17:02:55 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 17:02:55 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 17:02:55 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 17:02:55 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 17:02:56 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[28-Oct-2013 17:02:56 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 17:02:56 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 17:02:56 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[28-Oct-2013 17:10:16 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 17:10:16 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 17:10:16 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 17:10:16 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 17:10:16 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 17:10:16 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 17:10:18 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[28-Oct-2013 17:10:18 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 17:10:18 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 17:10:18 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[28-Oct-2013 17:12:55 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 17:12:55 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 17:12:55 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 17:12:55 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 17:12:55 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 17:12:55 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 17:12:58 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[28-Oct-2013 17:12:58 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 17:12:58 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 17:12:58 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[28-Oct-2013 17:17:15 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 17:17:15 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 17:17:15 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 17:17:15 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 17:17:15 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 17:17:15 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 17:17:18 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[28-Oct-2013 17:17:18 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 17:17:18 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 17:17:18 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[28-Oct-2013 17:22:00 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 17:22:00 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 17:22:00 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 17:22:00 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 17:22:00 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 17:22:00 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 17:22:03 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[28-Oct-2013 17:22:03 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 17:22:03 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 17:22:03 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[28-Oct-2013 17:28:23 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 17:28:23 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 17:28:23 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 17:28:23 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 17:28:23 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 17:28:23 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 17:28:26 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[28-Oct-2013 17:28:26 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 17:28:27 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 17:28:27 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[28-Oct-2013 17:29:12 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 17:29:12 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 17:29:12 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 17:29:12 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 17:29:12 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 17:29:12 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 17:29:15 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[28-Oct-2013 17:29:15 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 17:29:15 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 17:29:15 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[28-Oct-2013 17:47:25 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 17:47:25 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 17:47:25 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 17:47:25 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 17:47:25 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 17:47:25 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 17:47:29 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[28-Oct-2013 17:47:29 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 17:47:29 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 17:47:29 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[28-Oct-2013 17:49:10 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 17:49:10 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 17:49:10 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 17:49:10 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 17:49:10 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 17:49:10 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 17:49:12 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[28-Oct-2013 17:49:12 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 17:49:12 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 17:49:12 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[28-Oct-2013 17:50:21 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[28-Oct-2013 17:50:21 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 17:50:21 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 17:50:21 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[28-Oct-2013 17:50:21 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 17:50:21 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 17:50:23 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[28-Oct-2013 17:50:23 Europe/Moscow] PHP Stack trace:
+[28-Oct-2013 17:50:23 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[28-Oct-2013 17:50:23 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[29-Oct-2013 09:19:01 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[29-Oct-2013 09:19:01 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 09:19:01 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 09:19:01 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[29-Oct-2013 09:19:01 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 09:19:01 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 09:19:04 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[29-Oct-2013 09:19:04 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 09:19:04 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 09:19:04 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[29-Oct-2013 09:31:29 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[29-Oct-2013 09:31:29 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 09:31:29 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 09:31:29 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[29-Oct-2013 09:31:29 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 09:31:29 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 09:31:33 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[29-Oct-2013 09:31:33 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 09:31:33 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 09:31:33 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[29-Oct-2013 09:33:22 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[29-Oct-2013 09:33:22 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 09:33:22 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 09:33:22 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[29-Oct-2013 09:33:22 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 09:33:22 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 09:33:25 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[29-Oct-2013 09:33:25 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 09:33:25 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 09:33:25 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[29-Oct-2013 09:39:26 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[29-Oct-2013 09:39:26 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 09:39:26 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 09:39:26 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[29-Oct-2013 09:39:26 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 09:39:26 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 09:39:29 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[29-Oct-2013 09:39:29 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 09:39:29 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 09:39:29 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[29-Oct-2013 10:33:09 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[29-Oct-2013 10:33:09 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 10:33:09 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 10:33:09 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[29-Oct-2013 10:33:09 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 10:33:09 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 10:33:12 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[29-Oct-2013 10:33:12 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 10:33:12 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 10:33:12 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[29-Oct-2013 11:34:12 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[29-Oct-2013 11:34:13 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 11:34:13 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 11:34:13 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[29-Oct-2013 11:34:13 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 11:34:13 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 11:34:15 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[29-Oct-2013 11:34:15 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 11:34:15 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 11:34:15 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[29-Oct-2013 11:35:22 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[29-Oct-2013 11:35:22 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 11:35:22 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 11:35:22 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[29-Oct-2013 11:35:22 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 11:35:22 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 11:35:24 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[29-Oct-2013 11:35:24 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 11:35:24 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 11:35:24 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[29-Oct-2013 11:43:07 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[29-Oct-2013 11:43:07 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 11:43:07 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 11:43:07 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[29-Oct-2013 11:43:07 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 11:43:07 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 11:43:09 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[29-Oct-2013 11:43:09 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 11:43:09 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 11:43:09 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[29-Oct-2013 11:53:06 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[29-Oct-2013 11:53:06 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 11:53:06 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 11:53:06 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[29-Oct-2013 11:53:06 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 11:53:06 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 11:53:09 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[29-Oct-2013 11:53:09 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 11:53:09 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 11:53:09 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[29-Oct-2013 11:53:49 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[29-Oct-2013 11:53:49 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 11:53:49 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 11:53:49 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[29-Oct-2013 11:53:49 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 11:53:49 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 11:53:51 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[29-Oct-2013 11:53:51 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 11:53:51 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 11:53:51 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[29-Oct-2013 11:57:43 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[29-Oct-2013 11:57:43 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 11:57:43 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 11:57:43 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[29-Oct-2013 11:57:43 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 11:57:43 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 11:57:44 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[29-Oct-2013 11:57:44 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 11:57:44 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 11:57:44 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[29-Oct-2013 12:03:36 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[29-Oct-2013 12:03:36 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 12:03:36 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 12:03:36 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[29-Oct-2013 12:03:36 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 12:03:36 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 12:03:38 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[29-Oct-2013 12:03:38 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 12:03:38 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 12:03:38 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[29-Oct-2013 12:40:58 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[29-Oct-2013 12:40:58 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 12:40:58 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 12:40:58 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[29-Oct-2013 12:40:58 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 12:40:58 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 12:41:01 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[29-Oct-2013 12:41:01 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 12:41:01 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 12:41:01 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[29-Oct-2013 12:46:36 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[29-Oct-2013 12:46:36 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 12:46:36 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 12:46:36 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[29-Oct-2013 12:46:36 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 12:46:36 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 12:46:39 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[29-Oct-2013 12:46:39 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 12:46:39 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 12:46:39 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[29-Oct-2013 12:55:13 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[29-Oct-2013 12:55:13 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 12:55:13 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 12:55:13 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[29-Oct-2013 12:55:13 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 12:55:13 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 12:55:15 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[29-Oct-2013 12:55:15 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 12:55:15 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 12:55:15 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[29-Oct-2013 12:59:03 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[29-Oct-2013 12:59:03 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 12:59:03 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 12:59:03 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[29-Oct-2013 12:59:03 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 12:59:03 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 12:59:07 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[29-Oct-2013 12:59:07 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 12:59:07 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 12:59:07 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[29-Oct-2013 12:59:33 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[29-Oct-2013 12:59:33 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 12:59:33 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 12:59:33 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[29-Oct-2013 12:59:33 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 12:59:33 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 12:59:36 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[29-Oct-2013 12:59:36 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 12:59:36 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 12:59:36 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[29-Oct-2013 13:02:14 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[29-Oct-2013 13:02:14 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 13:02:14 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 13:02:14 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[29-Oct-2013 13:02:14 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 13:02:14 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 13:02:16 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[29-Oct-2013 13:02:16 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 13:02:16 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 13:02:16 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[29-Oct-2013 13:28:40 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[29-Oct-2013 13:28:40 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 13:28:40 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 13:28:40 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[29-Oct-2013 13:28:40 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 13:28:40 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 13:28:44 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[29-Oct-2013 13:28:44 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 13:28:44 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 13:28:44 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[29-Oct-2013 13:30:38 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[29-Oct-2013 13:30:38 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 13:30:38 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 13:30:38 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[29-Oct-2013 13:30:38 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 13:30:38 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 13:30:41 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[29-Oct-2013 13:30:41 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 13:30:41 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 13:30:41 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[29-Oct-2013 13:57:52 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[29-Oct-2013 13:57:52 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 13:57:52 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 13:57:52 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[29-Oct-2013 13:57:52 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 13:57:52 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 13:57:55 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[29-Oct-2013 13:57:55 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 13:57:55 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 13:57:55 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[29-Oct-2013 13:58:17 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[29-Oct-2013 13:58:17 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 13:58:17 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 13:58:17 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[29-Oct-2013 13:58:17 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 13:58:17 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 13:58:19 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[29-Oct-2013 13:58:19 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 13:58:19 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 13:58:19 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[29-Oct-2013 13:58:39 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[29-Oct-2013 13:58:39 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 13:58:39 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 13:58:39 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[29-Oct-2013 13:58:39 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 13:58:39 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 13:58:43 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[29-Oct-2013 13:58:43 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 13:58:43 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 13:58:43 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[29-Oct-2013 13:59:17 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[29-Oct-2013 13:59:17 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 13:59:17 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 13:59:17 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[29-Oct-2013 13:59:17 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 13:59:17 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 13:59:20 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[29-Oct-2013 13:59:20 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 13:59:20 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 13:59:20 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[29-Oct-2013 14:03:03 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[29-Oct-2013 14:03:03 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 14:03:03 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 14:03:03 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[29-Oct-2013 14:03:03 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 14:03:03 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 14:03:06 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[29-Oct-2013 14:03:06 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 14:03:06 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 14:03:06 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[29-Oct-2013 15:15:00 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[29-Oct-2013 15:15:00 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 15:15:00 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 15:15:01 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[29-Oct-2013 15:15:01 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 15:15:01 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 15:15:03 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[29-Oct-2013 15:15:03 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 15:15:03 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 15:15:03 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
+[29-Oct-2013 15:15:15 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 11
+[29-Oct-2013 15:15:15 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 15:15:15 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 15:15:15 Europe/Moscow] PHP Notice:  Undefined index: HTTP_USER_AGENT in C:\xampp\htdocs\feed2\index.php on line 12
+[29-Oct-2013 15:15:15 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 15:15:15 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 15:15:17 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\feed2\index.php:152) in C:\xampp\htdocs\feed2\index.php on line 154
+[29-Oct-2013 15:15:17 Europe/Moscow] PHP Stack trace:
+[29-Oct-2013 15:15:17 Europe/Moscow] PHP   1. {main}() C:\xampp\htdocs\feed2\index.php:0
+[29-Oct-2013 15:15:17 Europe/Moscow] PHP   2. header() C:\xampp\htdocs\feed2\index.php:154
